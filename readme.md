@@ -1,1 +1,1 @@
-cp
+git init
