@@ -1,1 +1,1 @@
-mkdir
+rm
